@@ -2,14 +2,14 @@
 ## 前言
 - 本仓库主要记录研究生期间论文阅读过程，包括但不限于论文翻译、论文内化笔记、核心代码理解、读论文过程中产生的心得体会、问题、idea等等。
 - 建立本仓库的目的主要是方便自己回顾所读过的内容，督促自己不断学习，本仓库下所有内容均不作为教学。
-# 阅读笔记格式（记录一下文献阅读笔记的逻辑形式）
-# MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning (2024)
+> # 阅读笔记格式（记录一下文献阅读笔记的逻辑形式）
+> # MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning (2024)
 
-## 📖 论文基本信息
-- **作者**: 
-- **发表会议**: ACL 2024
-- **期刊**: Findings of the Association for Computational Linguistics
-- **链接**: [论文链接](https://aclanthology.org/2024.findings-acl.33/)
+> ## 📖 论文基本信息
+> - **作者**: 
+> - **发表会议**: ACL 2024
+> - **期刊**: Findings of the Association for Computational Linguistics
+> - **链接**: [论文链接](https://aclanthology.org/2024.findings-acl.33/)
   
 ## 📝 论文摘要
 简短描述论文的核心内容和研究问题。
