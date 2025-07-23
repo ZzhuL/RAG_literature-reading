@@ -1,5 +1,4 @@
-# 🧾 Thesis Title
-**MEDAGENTS: Large Language Models as Collaborators for Zero-shot Medical Reasoning**
+# 🧾 **MEDAGENTS: Large Language Models as Collaborators for Zero-shot Medical Reasoning**
 
 ---
 
@@ -65,4 +64,5 @@
 - **总结**：论文展示的框架提供了一个全新的角度：通过模拟医学专家之间的协作过程，LLM能够更有效地整合知识并进行复杂推理，尤其适用于高风险、高专业度的领域，如医疗问答。
 - **反思**：  
   - 该框架是否可以迁移到其他领域（如工业制造）？例如在设备故障诊断或维修建议生成中，是否可以构建“多专家协商模型”以提升精度与鲁棒性？
+  -   多角色多视角去进行内容生成，然后讨论达到一个共识。
   - 框架虽无需训练，但多轮协商与专家模拟增加了计算开销，实际部署时需在性能与成本之间权衡。
