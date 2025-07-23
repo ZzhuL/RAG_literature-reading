@@ -1,4 +1,5 @@
-# 🧾 **MEDAGENTS: Large Language Models as Collaborators for Zero-shot Medical Reasoning**
+# 🧾 面向零样本医学推理的大型语言模型协同系统
+**MEDAGENTS: Large Language Models as Collaborators for Zero-shot Medical Reasoning**
 
 ---
 
