@@ -1,4 +1,4 @@
-# 🧾 Thesis Title
+# 🧾基于大型语言模型多智能体的虚拟药物研发平台构建研究
 **PharmAgents: Building a Virtual Pharma with Large Language Model Agents**
 
 ---
