@@ -1,4 +1,4 @@
-![Example](../pictures/frame.png)
+![Example](./pictures/frame.png)
 # RAG在工业里的场景中应用的相关文献阅读
 ## 前言
 - 本仓库主要记录研究生期间论文阅读过程，包括但不限于论文翻译、论文内化笔记、核心代码理解、读论文过程中产生的心得体会、问题、idea等等。
